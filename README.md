@@ -1,2 +1,5 @@
 # alx-system_engineering-devops
-This is a repository made for shell navigation as part of the alx program
+
+# Description
+
+This is a repo containing the projects from alx engineering related to system engineering and devops
